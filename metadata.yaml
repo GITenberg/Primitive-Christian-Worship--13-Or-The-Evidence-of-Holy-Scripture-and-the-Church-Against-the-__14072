@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5358'
     url: http://www.gutenberg.org/2009/agents/5358
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14072#Primitive-Christian-Worship--13-Or-The-Evidence-of-Holy-Scripture-and-the-Church-Against-the-_
 gutenberg_issued: '2004-11-17'
 gutenberg_type: Text
 identifiers:
